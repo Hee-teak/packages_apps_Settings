@@ -58,6 +58,9 @@
         android:fragment="com.android.settings.WirelessSettings"
         android:icon="@drawable/empty_icon" />
     
+    <!-- INTERFACE -->
+    <header android:title="@string/header_category_interface" />
+    
     <!-- Themes -->
     <header
         android:id="@+id/themes_settings"

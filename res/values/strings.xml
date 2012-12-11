@@ -4403,6 +4403,7 @@
     
     <!-- Themes settings -->
     <string name="themes_settings_title">Themes</string>
+    <string name="themes_summary">Customize user interface</string>
     
     <!-- End ThinkingBridge Settings -->
 </resources>
